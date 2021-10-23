@@ -20,5 +20,5 @@ npm run start
 ```
 
 ```
-url site:
+url site: https://product-managment.vercel.app
 ```
