@@ -1,0 +1,1 @@
+export const STORAGE_PRODUCTS = "STORAGE_PRODUCTS"
